@@ -1,5 +1,5 @@
-Duality
-Routine
-Writing
-Labels
-Kobe
+- Duality
+- Routine
+- Writing
+- Labels
+- Kobe
