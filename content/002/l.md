@@ -8,8 +8,9 @@ No one else is here.
 
 The dock gently rocks attempting to communicate with me in the only language it knows, the ebb and flow speaking words with no mouth, it ushers me.
 
-The lake's horizontal plane almost lays perfect however it is the imperfect line that makes the lake more than perfect, as if such a thing where possible, but somehow right now it is. I beckon to be received before the lake ushers me forward. However, time has no purpose in this moment. Whether anything of these things were present has no answer but is beyond question.
+The lake's horizontal plane almost lays perfect however it is the imperfect line that makes the lake more than perfect, as if such a thing where possible, but somehow right now it is. I beckon to be received before the lake ushers me forward. However, time has no purpose in this moment. Whether any of these things were present has no answer but is beyond question.
 
+I was already naked and steped toward the lake,
 I disrobe and step toward the lake, lowering myself slowly into it's gentle embrace.  Clad with the sky I take my back and begin to swim nowhere.  My eyes would be closed but I have no eyes. I have no body. She has received me and I her.
 
 
