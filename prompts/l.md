@@ -1,5 +1,12 @@
+L
 
-Lrewington
+
+
+- Hubris
+
+- What wealth truly means.
+
+- Mother
 
 - It wasn't easy to find but  years of research and travel finanly hit the right trail. From there it was easy to uncover the artifact of power. Customs was a bit more tricky but easy enough to figure out. Initial testing has proven succesfull...
 
