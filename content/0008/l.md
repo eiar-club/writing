@@ -1,6 +1,6 @@
 # Technique Z017
 
-[Theta Binaural]
+[Theta Binaural] [F/LS] [F/HSE]
 
 The Fears. The Overthinking. The worries. You have to let it go. There is another pathway. Convert your mind as if the tabula rasa. The blank slate. Once experienced, Gnosis is easy to identify. It is from this state that one truly becomes open. As we go through this exercise one will begin to feel more relaxed. Take this opportunity to embrace the change and become more relaxed. If one must, take each muscle and unwind it mentally, physically and spiritualty.
 
