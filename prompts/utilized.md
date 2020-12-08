@@ -14,4 +14,20 @@ I just woke up in a strange space.
 
 ## Four
 
+Writing
+
+## Five
+
 Getting caught up in your own experiment is always weird but even I would have to admit that maybe I had gone a little too far this time.
+
+## Six
+
+Routine
+
+## Seven
+
+What do you see when you look in the mirror?
+
+## Eight
+
+Freeform.

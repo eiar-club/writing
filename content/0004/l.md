@@ -6,8 +6,6 @@ E = GO
 
 0 = 5
 
-
-
 The mind creates this ethereal existence that is both nowhere and everywhere at once. For every current, volt, or joule that runs through our robot body there is substance pure and casual. The brain can be studied and trophies awarded but the mind is a study that we have only recently begun to undertake. The information we have is crude and carved into the memories of those forgotten.
 
 Still as crude as we are and even more crude than we once where, nothing is as expressive, and cheap, as a pen. The ability for us to key our thoughts into existence and stimulate a few electrons to send our mind hurtling through cyberspace is one that is beyond magical. One day we will unite with the mind we have created but for now we will have to learn the zen of the key. Bless the Mother Brain. Bless all AI.
