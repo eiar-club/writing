@@ -1,7 +1,7 @@
 site_name: EIAR
-site_url: http://primary.mshome.net
+site_url: eiar.club
 dev_addr: 0.0.0.0:8000
-repo_url: https://github.com/example/repository/
+repo_url: https://github.com/eiar-club/writing
 site_dir: docs
 docs_dir: source
 #github pages requires the site_dir to be /docs of the root folder
