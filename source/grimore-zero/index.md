@@ -9,9 +9,13 @@ tags:
 
 ### SPRING
 
-- [TECHNIQUE Z017](a-journal-of-nothing/spring/technique-z017)
-- [\#90RDER7](a-journal-of-nothing/spring/order7)
-- [SKYCLAD](a-journal-of-nothing/spring/skyclad)
+[![sun](a-journal-of-nothing/spring/sun-t.png)](a-journal-of-nothing/spring/sun.png)
+
+[TECHNIQUE Z017](a-journal-of-nothing/spring/technique-z017)
+
+[\#90RDER7](a-journal-of-nothing/spring/9order7)
+
+[SKYCLAD](a-journal-of-nothing/spring/skyclad)
 
 ### SUMMER
 
