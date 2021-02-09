@@ -1,5 +1,5 @@
 site_name: EIAR
-site_url: eiar.club
+site_url: https://eiar.club
 dev_addr: 0.0.0.0:8000
 repo_url: https://github.com/eiar-club/writing
 site_dir: docs
