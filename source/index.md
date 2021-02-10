@@ -5,4 +5,4 @@ tags:
     - home
     - entrance
 ---
-[![EIAR](assets/logo.png)](grimore-zero)
+[![EIAR](assets/logo.png)](grimoire-zero)

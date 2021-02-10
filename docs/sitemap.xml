@@ -1,135 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://eiar.club/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://eiar.club/tags.html</loc>
-     <lastmod>2021-02-09</lastmod>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://eiar.club/content/0001/b/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <loc>https://eiar.club/grimoire-zero/</loc>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://eiar.club/content/0001/l/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <loc>https://eiar.club/grimoire-zero/a-journal-of-nothing/spring/9order7/</loc>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://eiar.club/content/0002/b/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <loc>https://eiar.club/grimoire-zero/a-journal-of-nothing/spring/skyclad/</loc>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://eiar.club/content/0002/l/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <loc>https://eiar.club/grimoire-zero/a-journal-of-nothing/spring/technique-z017/</loc>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://eiar.club/content/0003/b/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <loc>https://eiar.club/grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you/</loc>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://eiar.club/content/0003/l/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <loc>https://eiar.club/grimoire-zero/a-journal-of-nothing/summer/routine/</loc>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://eiar.club/content/0004/b/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0004/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0005/b/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0005/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0006/b/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0006/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0007/b/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0007/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0008/b/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0008/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0009/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/content/0010/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/grimore-zero/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/grimore-zero/a-journal-of-nothing/spring/9order7/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/grimore-zero/a-journal-of-nothing/spring/skyclad/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/grimore-zero/a-journal-of-nothing/spring/technique-z017/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/grimore-zero/a-journal-of-nothing/summer/everyone-but-me-is-you/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/grimore-zero/a-journal-of-nothing/summer/routine/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/grimore-zero/a-journal-of-nothing/summer/writing/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/prompts/b/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/prompts/l/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/prompts/m/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/prompts/master/</loc>
-     <lastmod>2021-02-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://eiar.club/prompts/utilized/</loc>
-     <lastmod>2021-02-09</lastmod>
+     <loc>https://eiar.club/grimoire-zero/a-journal-of-nothing/summer/writing/</loc>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://eiar.club/tags.html</loc>
-     <lastmod>2021-02-09</lastmod>
+     <lastmod>2021-02-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
