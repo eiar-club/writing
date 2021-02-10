@@ -1,5 +1,10 @@
-# Upload Complete
-
+---
+title: UPLOAD COMPLETE
+tags:
+  - upload complete
+  - a journal of thing
+  - fall
+---
 I knew that I should have used the VPN to download the Army of the God Manual but I figured it was an honest download. Yet, as I looked out the crack of the drape I could clearly see the FBI executing a knock and seize warrant. I couldn't let my real work get taken. By my calculations that gave me a good forty seconds to wipe the drives and execute the kill switch to disperse the cloud network. I locked the door to my room, giving me maybe ten more seconds and keyed in the commands to start the process.
 
 The instant I hit enter the world pulsed cascading bolts of pain up my spine terminating at the tip of my skull sending me to one knee. Existence digitized for one second on the screen. No, it wasn't a screen, it was the world. That wasn't right either, I searched as the term fled from my mind's tongue. Aether Rig. Yes, that was right.

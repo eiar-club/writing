@@ -1,5 +1,5 @@
 ---
-title: Skyclad
+title: SKYCLAD
 tags:
   - skyclad
   - a journal of nothing

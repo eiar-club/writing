@@ -1,5 +1,10 @@
-# MIRO
-
+---
+title: MIRO
+tags:
+  - miro
+  - a journal of nothing
+  - winter
+---
 It is rather odd that you would ask me what you see when you look in the mirror?
 
 I know what I see when I look in the mirror. The brilliance that is myself. These big beautiful ruby eyes, crossed in Ssss. My slim figure and my goatee. It's all physical really. It's what the ladies like.
@@ -13,6 +18,3 @@ Normally I would be a predator but we refined the use of psychoactive scriptions
 That it is why it is odd to speak to a human and for him to ask what do I see when you look in the mirror.
 
 I know what it is reflected in the mirror. I see the brilliance that is myself. Ssss hanging brilliantly in the sun reflecting the ruby haze. Fit. Happy. Loved.
-
-
-

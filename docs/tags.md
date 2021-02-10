@@ -19,21 +19,30 @@ title: Tags
 
   * [FALL](grimoire-zero/a-journal-of-nothing/fall/index.md)
 
+  * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
+
   * [SPRING](grimoire-zero/a-journal-of-nothing/spring/index.md)
 
   * [.#90rder7](grimoire-zero/a-journal-of-nothing/spring/9order7.md)
 
-  * [Skyclad](grimoire-zero/a-journal-of-nothing/spring/skyclad.md)
-
   * [Summer](grimoire-zero/a-journal-of-nothing/summer/index.md)
 
-  * [Everyone But Me Is You](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
+  * [EVERYONE BUT ME IS YOU](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
 
-  * [Routine](grimoire-zero/a-journal-of-nothing/summer/routine.md)
-
-  * [Writing](grimoire-zero/a-journal-of-nothing/summer/writing.md)
+  * [WRITING](grimoire-zero/a-journal-of-nothing/summer/writing.md)
 
   * [WINTER](grimoire-zero/a-journal-of-nothing/winter/index.md)
+
+  * [MIRO](grimoire-zero/a-journal-of-nothing/winter/miro.md)
+
+  * [SKYCLAD](grimoire-zero/a-journal-of-nothing/winter/skyclad.md)
+
+ 
+
+
+## <span class="tag">a journal of thing</span>
+
+  * [UPLOAD COMPLETE](grimoire-zero/a-journal-of-nothing/fall/upload-complete.md)
 
  
 
@@ -61,7 +70,7 @@ title: Tags
 
 ## <span class="tag">everyone but me is you</span>
 
-  * [Everyone But Me Is You](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
+  * [EVERYONE BUT ME IS YOU](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
 
  
 
@@ -69,6 +78,8 @@ title: Tags
 ## <span class="tag">fall</span>
 
   * [FALL](grimoire-zero/a-journal-of-nothing/fall/index.md)
+
+  * [UPLOAD COMPLETE](grimoire-zero/a-journal-of-nothing/fall/upload-complete.md)
 
  
 
@@ -106,16 +117,23 @@ title: Tags
  
 
 
+## <span class="tag">miro</span>
+
+  * [MIRO](grimoire-zero/a-journal-of-nothing/winter/miro.md)
+
+ 
+
+
 ## <span class="tag">routine</span>
 
-  * [Routine](grimoire-zero/a-journal-of-nothing/summer/routine.md)
+  * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
 
  
 
 
 ## <span class="tag">skyclad</span>
 
-  * [Skyclad](grimoire-zero/a-journal-of-nothing/spring/skyclad.md)
+  * [SKYCLAD](grimoire-zero/a-journal-of-nothing/winter/skyclad.md)
 
  
 
@@ -126,20 +144,27 @@ title: Tags
 
   * [.#90rder7](grimoire-zero/a-journal-of-nothing/spring/9order7.md)
 
-  * [Skyclad](grimoire-zero/a-journal-of-nothing/spring/skyclad.md)
+  * [SKYCLAD](grimoire-zero/a-journal-of-nothing/winter/skyclad.md)
 
  
 
 
 ## <span class="tag">summer</span>
 
+  * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
+
   * [Summer](grimoire-zero/a-journal-of-nothing/summer/index.md)
 
-  * [Everyone But Me Is You](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
+  * [EVERYONE BUT ME IS YOU](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
 
-  * [Routine](grimoire-zero/a-journal-of-nothing/summer/routine.md)
+  * [WRITING](grimoire-zero/a-journal-of-nothing/summer/writing.md)
 
-  * [Writing](grimoire-zero/a-journal-of-nothing/summer/writing.md)
+ 
+
+
+## <span class="tag">upload complete</span>
+
+  * [UPLOAD COMPLETE](grimoire-zero/a-journal-of-nothing/fall/upload-complete.md)
 
  
 
@@ -148,11 +173,13 @@ title: Tags
 
   * [WINTER](grimoire-zero/a-journal-of-nothing/winter/index.md)
 
+  * [MIRO](grimoire-zero/a-journal-of-nothing/winter/miro.md)
+
  
 
 
 ## <span class="tag">writing</span>
 
-  * [Writing](grimoire-zero/a-journal-of-nothing/summer/writing.md)
+  * [WRITING](grimoire-zero/a-journal-of-nothing/summer/writing.md)
 
  

@@ -1,5 +1,5 @@
 ---
-title: Everyone But Me Is You
+title: EVERYONE BUT ME IS YOU
 tags:
   - everyone but me is you
   - a journal of nothing

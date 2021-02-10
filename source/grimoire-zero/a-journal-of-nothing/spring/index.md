@@ -5,6 +5,8 @@ tags:
   - a journal of nothing
   - spring
 ---
+## A JOURNAL OF NOTHING
+
 [![sun](sun-t.png)](sun.png)
 
 [TECHNIQUE Z017](technique-z017)
@@ -16,9 +18,3 @@ tags:
 [\#90RDER7](9order7)
 |
 [WOKE](woke.png)
-
-[![cosmos](cosmos-t.png)](cosmos.png)
-
-[SKYCLAD](skyclad)
-|
-[COSMOS](cosmos.png)

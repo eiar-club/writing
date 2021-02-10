@@ -1,5 +1,5 @@
 ---
-title: Routine
+title: ROUTINE
 tags:
   - routine
   - a journal of nothing

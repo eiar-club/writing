@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: WRITING
 tags:
   - writing
   - a journal of nothing
