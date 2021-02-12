@@ -8,4 +8,4 @@ tags:
 |
 [A MAN OF EVERYTHING](a-man-of-everything)
 
-[![GRIMOIRE-0](path.png)](grimoire-zero)
+[![GRIMOIRE](path.png)](path.png)
