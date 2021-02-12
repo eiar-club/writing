@@ -55,7 +55,7 @@ title: Tags
 
   * [Strange Space](grimoire-zero/a-man-of-everything/air/strange-space.md)
 
-  * [Page Intentionally Thrown Away](grimoire-zero/a-man-of-everything/air/thrown-away.md)
+  * [Thrown Away](grimoire-zero/a-man-of-everything/air/thrown-away.md)
 
   * [EARTH](grimoire-zero/a-man-of-everything/earth/index.md)
 
@@ -84,7 +84,7 @@ title: Tags
 
 ## <span class="tag">earth</span>
 
-  * [Page Intentionally Thrown Away](grimoire-zero/a-man-of-everything/air/thrown-away.md)
+  * [Thrown Away](grimoire-zero/a-man-of-everything/air/thrown-away.md)
 
   * [EARTH](grimoire-zero/a-man-of-everything/earth/index.md)
 
@@ -176,13 +176,6 @@ title: Tags
  
 
 
-## <span class="tag">page intentionally thrown away</span>
-
-  * [Page Intentionally Thrown Away](grimoire-zero/a-man-of-everything/air/thrown-away.md)
-
- 
-
-
 ## <span class="tag">routine</span>
 
   * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
@@ -224,6 +217,13 @@ title: Tags
   * [EVERYONE BUT ME IS YOU](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
 
   * [WRITING](grimoire-zero/a-journal-of-nothing/summer/writing.md)
+
+ 
+
+
+## <span class="tag">thrown away</span>
+
+  * [Thrown Away](grimoire-zero/a-man-of-everything/air/thrown-away.md)
 
  
 

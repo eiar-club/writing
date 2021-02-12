@@ -1,7 +1,7 @@
 ---
-title: Page Intentionally Thrown Away
+title: Thrown Away
 tags:
-  - page intentionally thrown away
+  - thrown away
   - a man of everything
   - earth
 ---

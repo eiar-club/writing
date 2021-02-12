@@ -21,7 +21,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/tiny.png
   palette:
-    primary: '#003333'
+    primary: 'light green'
   features:
 #    - toc.integrate
     - navigation.instant
@@ -30,9 +30,6 @@ theme:
 #    - navigation.sections (don't enable this)
     - navigation.expand
 #    - header.autohide
-
-extra_css:
-  - stylesheets/color.css
 
 
 nav:
@@ -54,8 +51,8 @@ nav:
     - 'grimoire-zero/a-journal-of-nothing/winter/skyclad.md'
     - 'A MAN OF EVERYTHING' : 'grimoire-zero/a-man-of-everything/index.md'
     - 'AIR' : 'grimoire-zero/a-man-of-everything/air/index.md'
-    - 'STRANGE SPACE' : 'grimoire-zero/a-man-of-everything/air/strange-space.md'
-    - 'THROWN AWAY' : 'grimoire-zero/a-man-of-everything/air/thrown-away.md'
+    - 'grimoire-zero/a-man-of-everything/air/strange-space.md'
+    - 'grimoire-zero/a-man-of-everything/air/thrown-away.md'
     - 'FIRE' : 'grimoire-zero/a-man-of-everything/fire/index.md'
     - 'WATER' : 'grimoire-zero/a-man-of-everything/water/index.md'
     - 'EARTH' : 'grimoire-zero/a-man-of-everything/earth/index.md'
