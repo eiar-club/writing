@@ -1,0 +1,5 @@
+#bash
+
+mkdocs build
+rm docs/CNAME
+printf "eiar.club" >> docs/CNAME

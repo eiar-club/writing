@@ -1,5 +1,5 @@
 ---
-title: Strange Space
+title: STRANGE SPACE
 tags:
   - strange space
   - a man of everything

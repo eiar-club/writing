@@ -1,5 +1,5 @@
 ---
-title: Thrown Away
+title: THROWN AWAY
 tags:
   - thrown away
   - a man of everything
