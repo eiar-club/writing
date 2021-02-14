@@ -7,14 +7,10 @@ tags:
 ---
 ## A JOURNAL OF NOTHING
 
-[![sun](sun-t.png)](sun.png)
+[![sun-king](sun-king-t.png)](sun-king)
 
-[TECHNIQUE Z017](technique-z017)
-|
-[SUN KING](sun.png)
+[TECHNIQUE Z017](technique-z017) | [SUN KING](sun-king)
 
-[![woke](woke-t.png)](woke.png)
+[![woke](woke-t.png)](woke)
 
-[\#90RDER7](9order7)
-|
-[WOKE](woke.png)
+[\#90RDER7](9order7) | [WOKE](woke)

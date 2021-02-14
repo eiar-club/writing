@@ -7,10 +7,10 @@ tags:
 ---
 ## A MAN OF EVERYTHING
 
-[![spiral](spiral-t.png)](spiral.png)
+[![spiral](spiral-t.png)](spiral)
 
-[____________](______________) | [SPIRAL](spiral.png)
+[____________](______________) | [SPIRAL](spiral)
 
-[![snakes](snakes-t.png)](snakes.png)
+[![snakes](snakes-t.png)](snakes)
 
-[____________](______________) | [SNAKES](snakes.png)
+[____________](______________) | [SNAKES](snakes)

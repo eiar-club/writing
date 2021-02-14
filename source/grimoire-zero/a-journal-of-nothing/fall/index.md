@@ -5,6 +5,8 @@ tags:
   - a journal of nothing
   - fall
 ---
+## A JOURNAL OF NOTHING
+
 [![panalytic](panalytic-t.png)](panalytic)
 
 [UPLOAD COMPLETE](upload_complete) | [PANALYTIC](panalytic)

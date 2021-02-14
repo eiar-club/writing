@@ -7,10 +7,10 @@ tags:
 ---
 ## A JOURNAL OF NOTHING
 
-[![breath](breath-t.png)](breath.png)
+[![breath](breath-t.png)](breath)
 
-[WRITING](writing) | [BREATH](breath.png)
+[WRITING](writing) | [BREATH](breath)
 
-[![arobe](arobe-t.png)](arobe.png)
+[![arobe](arobe-t.png)](arobe)
 
-[EVERYONE BUT ME IS YOU](everyone-but-me-is-you) | [AROBE](arobe.png)
+[EVERYONE BUT ME IS YOU](everyone-but-me-is-you) | [AROBE](arobe)

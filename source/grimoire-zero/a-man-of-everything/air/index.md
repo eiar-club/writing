@@ -7,10 +7,10 @@ tags:
 ---
 ## A MAN OF EVERYTHING
 
-[![vgnhycr](vgnhycr-t.png)](vgnhycr.png)
+[![vgnhycr](vgnhycr-t.png)](vgnhycr)
 
-[STRANGE SPACE](strange-space.md) | [VGNHYCR](vgnhycr.png)
+[STRANGE SPACE](strange-space) | [VGNHYCR](vgnhycr)
 
-[![atthree](atthree-t.png)](atthree.png)
+[![atthree](atthree-t.png)](atthree)
 
-[THROWN AWAY](thrown-away.md) | [ATTHREE](atthree.png)
+[THROWN AWAY](thrown-away) | [ATTHREE](atthree)

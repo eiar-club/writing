@@ -7,10 +7,10 @@ tags:
 ---
 ## A MAN OF EVERYTHING
 
-[![wheel](wheel-t.png)](wheel.png)
+[![wheel](wheel-t.png)](wheel)
 
-[____________](______________) | [WHEEL](wheel.png)
+[____________](______________) | [WHEEL](wheel)
 
-[![wnge](wnge-t.png)](wnge.png)
+[![wnge](wnge-t.png)](wnge)
 
-[____________](______________) | [WNGE](wnge.png)
+[____________](______________) | [WNGE](wnge)

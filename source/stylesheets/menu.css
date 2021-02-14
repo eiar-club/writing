@@ -1,0 +1,19 @@
+
+.md-nav__item--nested .md-nav__item:nth-child(3),
+.md-nav__item--nested .md-nav__item:nth-child(8),
+.md-nav__item--nested .md-nav__item:nth-child(13),
+.md-nav__item--nested .md-nav__item:nth-child(18),
+.md-nav__item--nested .md-nav__item:nth-child(24),
+.md-nav__item--nested .md-nav__item:nth-child(29),
+.md-nav__item--nested .md-nav__item:nth-child(32),
+.md-nav__item--nested .md-nav__item:nth-child(35)
+{
+    font-weight: bold;
+}
+
+.md-nav__item--nested .md-nav__item:nth-child(2),
+.md-nav__item--nested .md-nav__item:nth-child(23)
+{
+  font-size: larger;
+  font-weight: bold;
+}

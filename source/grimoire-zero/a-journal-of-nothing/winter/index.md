@@ -7,10 +7,10 @@ tags:
 ---
 ## A JOURNAL OF NOTHING
 
-[![miro](miro-t.png)](miro.png)
+[![miro](miro-t.png)](miro-ii)
 
-[MIRO](miro) | [MIRO](miro.png)
+[MIRO](miro) | [MIRO](miro-ii)
 
-[![cosmos](cosmos-t.png)](cosmos.png)
+[![cosmos](cosmos-t.png)](cosmos)
 
-[SKYCLAD](skyclad) | [COSMOS](cosmos.png)
+[SKYCLAD](skyclad) | [COSMOS](cosmos)

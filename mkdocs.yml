@@ -1,6 +1,7 @@
 site_name: EIAR
 site_url: https://eiar.club
 dev_addr: 0.0.0.0:8000
+base_url: /
 #repo_url: https://github.com/eiar-club/writing
 site_dir: docs
 docs_dir: source
@@ -18,7 +19,7 @@ plugins:
 
 theme:
   name: material
-  logo: assets/logo.png
+  logo: assets/thick.png
   favicon: assets/tiny.png
   features:
 #    - toc.integrate
@@ -31,6 +32,7 @@ theme:
 
 extra_css:
   - stylesheets/color.css
+  - stylesheets/menu.css
 
 nav:
   - 'HOME': 'index.md'
@@ -38,10 +40,14 @@ nav:
     - 'grimoire-zero/index.md'
     - 'grimoire-zero/a-journal-of-nothing/index.md'
     - 'grimoire-zero/a-journal-of-nothing/spring/index.md'
+    - 'grimoire-zero/a-journal-of-nothing/spring/sun-king.md'
     - 'grimoire-zero/a-journal-of-nothing/spring/technique-z017.md'
+    - 'grimoire-zero/a-journal-of-nothing/spring/woke.md'
     - 'grimoire-zero/a-journal-of-nothing/spring/9order7.md'
     - 'SUMMER' : 'grimoire-zero/a-journal-of-nothing/summer/index.md'
+    - 'grimoire-zero/a-journal-of-nothing/summer/breath.md'
     - 'grimoire-zero/a-journal-of-nothing/summer/writing.md'
+    - 'grimoire-zero/a-journal-of-nothing/summer/arobe.md'
     - 'grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md'
     - 'FALL' : 'grimoire-zero/a-journal-of-nothing/fall/index.md'
     - 'grimoire-zero/a-journal-of-nothing/fall/upload-complete.md'
@@ -49,14 +55,24 @@ nav:
     - 'grimoire-zero/a-journal-of-nothing/fall/routine.md'
     - 'grimoire-zero/a-journal-of-nothing/fall/five.md'
     - 'WINTER' : 'grimoire-zero/a-journal-of-nothing/winter/index.md'
+    - 'grimoire-zero/a-journal-of-nothing/winter/miro-ii.md'
     - 'grimoire-zero/a-journal-of-nothing/winter/miro.md'
+    - 'grimoire-zero/a-journal-of-nothing/winter/cosmos.md'
     - 'grimoire-zero/a-journal-of-nothing/winter/skyclad.md'
     - 'A MAN OF EVERYTHING' : 'grimoire-zero/a-man-of-everything/index.md'
     - 'AIR' : 'grimoire-zero/a-man-of-everything/air/index.md'
+    - 'grimoire-zero/a-man-of-everything/air/vgnhycr.md'
     - 'grimoire-zero/a-man-of-everything/air/strange-space.md'
+    - 'grimoire-zero/a-man-of-everything/air/atthree.md'
     - 'grimoire-zero/a-man-of-everything/air/thrown-away.md'
     - 'FIRE' : 'grimoire-zero/a-man-of-everything/fire/index.md'
+    - 'grimoire-zero/a-man-of-everything/fire/key.md'
+    - 'grimoire-zero/a-man-of-everything/fire/lamp.md'
     - 'WATER' : 'grimoire-zero/a-man-of-everything/water/index.md'
+    - 'grimoire-zero/a-man-of-everything/water/spiral.md'
+    - 'grimoire-zero/a-man-of-everything/water/snakes.md'
     - 'EARTH' : 'grimoire-zero/a-man-of-everything/earth/index.md'
+    - 'grimoire-zero/a-man-of-everything/earth/wheel.md'
+    - 'grimoire-zero/a-man-of-everything/earth/wnge.md'
   - 'ABOUT' : about.md
 
