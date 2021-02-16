@@ -9,7 +9,7 @@ tags:
 
 [![spiral](spiral-t.png)](spiral)
 
-[____________](______________) | [SPIRAL](spiral)
+[PLASMA](plasma) | [SPIRAL](spiral)
 
 [![snakes](snakes-t.png)](snakes)
 

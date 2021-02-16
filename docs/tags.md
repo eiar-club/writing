@@ -91,6 +91,8 @@ title: Tags
 
   * [WATER](grimoire-zero/a-man-of-everything/water/index.md)
 
+  * [PLASMA](grimoire-zero/a-man-of-everything/water/plasma.md)
+
   * [SNAKES](grimoire-zero/a-man-of-everything/water/snakes.md)
 
   * [SPIRAL](grimoire-zero/a-man-of-everything/water/spiral.md)
@@ -282,6 +284,13 @@ title: Tags
  
 
 
+## <span class="tag">plasma</span>
+
+  * [PLASMA](grimoire-zero/a-man-of-everything/water/plasma.md)
+
+ 
+
+
 ## <span class="tag">routine</span>
 
   * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
@@ -384,6 +393,8 @@ title: Tags
 ## <span class="tag">water</span>
 
   * [WATER](grimoire-zero/a-man-of-everything/water/index.md)
+
+  * [PLASMA](grimoire-zero/a-man-of-everything/water/plasma.md)
 
   * [SNAKES](grimoire-zero/a-man-of-everything/water/snakes.md)
 
