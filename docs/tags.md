@@ -21,9 +21,9 @@ title: Tags
 
   * [FIVE](grimoire-zero/a-journal-of-nothing/fall/five.md)
 
-  * [PANALYTIC](grimoire-zero/a-journal-of-nothing/fall/panalytic.md)
+  * [GOLDEN NUMBER](grimoire-zero/a-journal-of-nothing/fall/golden-number.md)
 
-  * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
+  * [PANALYTIC](grimoire-zero/a-journal-of-nothing/fall/panalytic.md)
 
   * [SPRING](grimoire-zero/a-journal-of-nothing/spring/index.md)
 
@@ -53,6 +53,8 @@ title: Tags
 
   * [SKYCLAD](grimoire-zero/a-journal-of-nothing/winter/skyclad.md)
 
+  * [ROUTINE](grimoire-zero/a-man-of-everything/fire/routine.md)
+
  
 
 
@@ -79,6 +81,10 @@ title: Tags
 
   * [EARTH](grimoire-zero/a-man-of-everything/earth/index.md)
 
+  * [CAMERA](grimoire-zero/a-man-of-everything/earth/camera.md)
+
+  * [REMNANTS](grimoire-zero/a-man-of-everything/earth/remnants.md)
+
   * [WHEEL](grimoire-zero/a-man-of-everything/earth/wheel.md)
 
   * [WNGE](grimoire-zero/a-man-of-everything/earth/wnge.md)
@@ -88,6 +94,8 @@ title: Tags
   * [KEY](grimoire-zero/a-man-of-everything/fire/key.md)
 
   * [LAMP](grimoire-zero/a-man-of-everything/fire/lamp.md)
+
+  * [SOMBER](grimoire-zero/a-man-of-everything/fire/somber.md)
 
   * [WATER](grimoire-zero/a-man-of-everything/water/index.md)
 
@@ -143,6 +151,13 @@ title: Tags
  
 
 
+## <span class="tag">camera</span>
+
+  * [CAMERA](grimoire-zero/a-man-of-everything/earth/camera.md)
+
+ 
+
+
 ## <span class="tag">cosmos</span>
 
   * [COSMOS](grimoire-zero/a-journal-of-nothing/winter/cosmos.md)
@@ -155,6 +170,10 @@ title: Tags
   * [THROWN AWAY](grimoire-zero/a-man-of-everything/air/thrown-away.md)
 
   * [EARTH](grimoire-zero/a-man-of-everything/earth/index.md)
+
+  * [CAMERA](grimoire-zero/a-man-of-everything/earth/camera.md)
+
+  * [REMNANTS](grimoire-zero/a-man-of-everything/earth/remnants.md)
 
   * [WHEEL](grimoire-zero/a-man-of-everything/earth/wheel.md)
 
@@ -190,6 +209,8 @@ title: Tags
 
   * [FIVE](grimoire-zero/a-journal-of-nothing/fall/five.md)
 
+  * [GOLDEN NUMBER](grimoire-zero/a-journal-of-nothing/fall/golden-number.md)
+
   * [PANALYTIC](grimoire-zero/a-journal-of-nothing/fall/panalytic.md)
 
   * [UPLOAD COMPLETE](grimoire-zero/a-journal-of-nothing/fall/upload-complete.md)
@@ -205,12 +226,21 @@ title: Tags
 
   * [LAMP](grimoire-zero/a-man-of-everything/fire/lamp.md)
 
+  * [SOMBER](grimoire-zero/a-man-of-everything/fire/somber.md)
+
  
 
 
 ## <span class="tag">five</span>
 
   * [FIVE](grimoire-zero/a-journal-of-nothing/fall/five.md)
+
+ 
+
+
+## <span class="tag">golden number</span>
+
+  * [GOLDEN NUMBER](grimoire-zero/a-journal-of-nothing/fall/golden-number.md)
 
  
 
@@ -300,9 +330,16 @@ title: Tags
  
 
 
+## <span class="tag">remnants</span>
+
+  * [REMNANTS](grimoire-zero/a-man-of-everything/earth/remnants.md)
+
+ 
+
+
 ## <span class="tag">routine</span>
 
-  * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
+  * [ROUTINE](grimoire-zero/a-man-of-everything/fire/routine.md)
 
  
 
@@ -317,6 +354,13 @@ title: Tags
 ## <span class="tag">snakes</span>
 
   * [SNAKES](grimoire-zero/a-man-of-everything/water/snakes.md)
+
+ 
+
+
+## <span class="tag">somber</span>
+
+  * [SOMBER](grimoire-zero/a-man-of-everything/fire/somber.md)
 
  
 
@@ -360,13 +404,13 @@ title: Tags
 
 ## <span class="tag">summer</span>
 
-  * [ROUTINE](grimoire-zero/a-journal-of-nothing/fall/routine.md)
-
   * [Summer](grimoire-zero/a-journal-of-nothing/summer/index.md)
 
   * [EVERYONE BUT ME IS YOU](grimoire-zero/a-journal-of-nothing/summer/everyone-but-me-is-you.md)
 
   * [WRITING](grimoire-zero/a-journal-of-nothing/summer/writing.md)
+
+  * [ROUTINE](grimoire-zero/a-man-of-everything/fire/routine.md)
 
  
 

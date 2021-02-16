@@ -13,4 +13,4 @@ tags:
 
 [![five](five-t.png)](five)
 
-[ROUTINE](routine) | [FIVE](five)
+[GOLDEN NUMBER](golden-number) | [FIVE](five)

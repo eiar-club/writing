@@ -9,8 +9,8 @@ tags:
 
 [![key](key-t.png)](key)
 
-[____________](______________) | [KEY](key)
+[SOMBER](somber) | [KEY](key)
 
 [![lamp](lamp-t.png)](lamp)
 
-[____________](______________) | [LAMP](lamp)
+[ROUTINE](routine) | [LAMP](lamp)

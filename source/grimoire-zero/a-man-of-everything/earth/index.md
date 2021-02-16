@@ -9,8 +9,8 @@ tags:
 
 [![wheel](wheel-t.png)](wheel)
 
-[____________](______________) | [WHEEL](wheel)
+[CAMERA](camera) | [WHEEL](wheel)
 
 [![wnge](wnge-t.png)](wnge)
 
-[____________](______________) | [WNGE](wnge)
+[REMNANTS](remnants) | [WNGE](wnge)

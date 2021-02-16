@@ -5,8 +5,8 @@
 .md-nav__item--nested .md-nav__item:nth-child(18),
 .md-nav__item--nested .md-nav__item:nth-child(24),
 .md-nav__item--nested .md-nav__item:nth-child(29),
-.md-nav__item--nested .md-nav__item:nth-child(32),
-.md-nav__item--nested .md-nav__item:nth-child(37)
+.md-nav__item--nested .md-nav__item:nth-child(34),
+.md-nav__item--nested .md-nav__item:nth-child(39)
 {
     font-weight: bold;
 }
