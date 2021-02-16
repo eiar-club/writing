@@ -13,4 +13,4 @@ tags:
 
 [![snakes](snakes-t.png)](snakes)
 
-[____________](______________) | [SNAKES](snakes)
+[LEFT HANDED](left-handed) | [SNAKES](snakes)

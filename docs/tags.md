@@ -91,6 +91,8 @@ title: Tags
 
   * [WATER](grimoire-zero/a-man-of-everything/water/index.md)
 
+  * [LEFT HANDED](grimoire-zero/a-man-of-everything/water/left-handed.md)
+
   * [PLASMA](grimoire-zero/a-man-of-everything/water/plasma.md)
 
   * [SNAKES](grimoire-zero/a-man-of-everything/water/snakes.md)
@@ -268,6 +270,13 @@ title: Tags
  
 
 
+## <span class="tag">left handed</span>
+
+  * [LEFT HANDED](grimoire-zero/a-man-of-everything/water/left-handed.md)
+
+ 
+
+
 ## <span class="tag">miro</span>
 
   * [MIRO](grimoire-zero/a-journal-of-nothing/winter/miro-ii.md)
@@ -393,6 +402,8 @@ title: Tags
 ## <span class="tag">water</span>
 
   * [WATER](grimoire-zero/a-man-of-everything/water/index.md)
+
+  * [LEFT HANDED](grimoire-zero/a-man-of-everything/water/left-handed.md)
 
   * [PLASMA](grimoire-zero/a-man-of-everything/water/plasma.md)
 
