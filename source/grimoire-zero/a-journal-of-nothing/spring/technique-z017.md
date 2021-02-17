@@ -15,4 +15,4 @@ Nothing is left. What was once is no more. Transformation has been achieved. You
 
 You are open now. There is another pathway. And another. And another. Pathways extend into infinity. This is the word they call bliss but means something different. Here all things are possible. Embrace this change.
 
-Let get of spirit. Open yourself even more. The line has become a point that recedes into forever. The deeper you go the more you realize everything minus one. You are the one and the nothing. Fully open yourself. Completely surrender. Be nothing. Be all. Embrace this everything.
+Let go of spirit. Open yourself even more. The line has become a point that recedes into forever. The deeper you go the more you realize everything minus one. You are the one and the nothing. Fully open yourself. Completely surrender. Be nothing. Be all. Embrace this everything.
