@@ -163,8 +163,6 @@ title: Tags
 
   * [BLANK](tome-of-the-harbinger/star-herald/celestial/blank.md)
 
-  * [BLANK](tome-of-the-harbinger/star-herald/ecliptic/blank.md)
-
   * [BLANK](tome-of-the-harbinger/star-herald/equatorial/blank.md)
 
  
@@ -233,6 +231,13 @@ title: Tags
  
 
 
+## <span class="tag">dimensionality</span>
+
+  * [DIMENSIONALITY](tome-of-the-harbinger/star-herald/ecliptic/dimensionality.md)
+
+ 
+
+
 ## <span class="tag">dusk</span>
 
   * [DUSK](tome-of-the-harbinger/lunar-overture/dusk/index.md)
@@ -261,7 +266,9 @@ title: Tags
 
   * [ECLIPTIC](tome-of-the-harbinger/star-herald/ecliptic/index.md)
 
-  * [BLANK](tome-of-the-harbinger/star-herald/ecliptic/blank.md)
+  * [DIMENSIONALITY](tome-of-the-harbinger/star-herald/ecliptic/dimensionality.md)
+
+  * [TESSERACT](tome-of-the-harbinger/star-herald/ecliptic/tesseract.md)
 
   * [UN VIAJE CON LOS DUENDES](tome-of-the-harbinger/star-herald/equatorial/un-viaje-con-los-duendes.md)
 
@@ -392,8 +399,6 @@ title: Tags
   * [STAR HERALD](tome-of-the-harbinger/star-herald/index.md)
 
   * [BLANK](tome-of-the-harbinger/star-herald/celestial/blank.md)
-
-  * [BLANK](tome-of-the-harbinger/star-herald/ecliptic/blank.md)
 
   * [BLANK](tome-of-the-harbinger/star-herald/equatorial/blank.md)
 
@@ -615,7 +620,9 @@ title: Tags
 
   * [ECLIPTIC](tome-of-the-harbinger/star-herald/ecliptic/index.md)
 
-  * [BLANK](tome-of-the-harbinger/star-herald/ecliptic/blank.md)
+  * [DIMENSIONALITY](tome-of-the-harbinger/star-herald/ecliptic/dimensionality.md)
+
+  * [TESSERACT](tome-of-the-harbinger/star-herald/ecliptic/tesseract.md)
 
   * [EQUATORIAL](tome-of-the-harbinger/star-herald/equatorial/index.md)
 
@@ -653,6 +660,13 @@ title: Tags
 ## <span class="tag">sun king</span>
 
   * [SUN KING](grimoire-zero/a-journal-of-nothing/spring/sun-king.md)
+
+ 
+
+
+## <span class="tag">tesseract</span>
+
+  * [TESSERACT](tome-of-the-harbinger/star-herald/ecliptic/tesseract.md)
 
  
 
@@ -697,6 +711,10 @@ title: Tags
   * [WEST WEST](tome-of-the-harbinger/lunar-overture/dawn/west-west.md)
 
   * [ECLIPTIC](tome-of-the-harbinger/star-herald/ecliptic/index.md)
+
+  * [DIMENSIONALITY](tome-of-the-harbinger/star-herald/ecliptic/dimensionality.md)
+
+  * [TESSERACT](tome-of-the-harbinger/star-herald/ecliptic/tesseract.md)
 
   * [EQUATORIAL](tome-of-the-harbinger/star-herald/equatorial/index.md)
 

@@ -7,10 +7,10 @@ tags:
 ---
 ## STAR HERALD
 
-[![blank](blank-t.png)](blank)
+[![dimensionality](dimensionality-t.png)](dimensionality)
 
-[SAVAGES IN SHINY CARS](savages-in-shiny-cars) | [BLANK](blank)
+[SAVAGES IN SHINY CARS](savages-in-shiny-cars) | [DIMENSIONALITY](dimensionality)
 
-[![blank](blank-t.png)](blank)
+[![tesseract](tesseract-t.png)](tesseract)
 
-[FORMLESS](formless) | [BLANK](blank)
+[FORMLESS](formless) | [TESSERACT](tesseract)
