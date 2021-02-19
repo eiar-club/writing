@@ -7,9 +7,9 @@ tags:
 ---
 ## STAR HERALD
 
-[![blank](blank-t.png)](blank)
+[![chain](chain-t.png)](chain)
 
-[MOMENTUM](momentum) | [BLANK](blank)
+[MOMENTUM](momentum) | [CHAIN](chain)
 
 [![blank](blank-t.png)](blank)
 
