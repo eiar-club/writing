@@ -11,6 +11,6 @@ tags:
 
 [MOMENTUM](momentum) | [CHAIN](chain)
 
-[![blank](blank-t.png)](blank)
+[![littles](littles-t.png)](littles)
 
-[UN VIAJE CON LOS DUENDES](un-viaje-con-los-duendes) | [BLANK](blank)
+[UN VIAJE CON LOS DUENDES](un-viaje-con-los-duendes) | [LITTLES](littles)
