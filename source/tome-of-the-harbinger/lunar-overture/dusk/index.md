@@ -7,10 +7,10 @@ tags:
 ---
 ## LUNAR OVERTURE
 
-[![blank](blank-t.png)](blank)
+[![countdown](countdown-t.png)](countdown)
 
-[COSMIC INTERPRETATION](cosmic-interpretation) | [BLANK](blank)
+[COSMIC INTERPRETATION](cosmic-interpretation) | [COUNTDOWN](countdown)
 
-[![blank](blank-t.png)](blank)
+[![rogue](rogue-t.png)](rogue)
 
-[TOPI TAPA](topi-tapa) | [BLANK](blank)
+[TOPI TAPA](topi-tapa) | [ROGUE](rogue)

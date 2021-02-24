@@ -7,10 +7,10 @@ tags:
 ---
 ## STAR HERALD
 
-[![blank](blank-t.png)](blank)
+[![series](series-t.png)](series)
 
-[ARMY OF GOD](army-of-god) | [BLANK](blank)
+[ARMY OF GOD](army-of-god) | [SERIES](series)
 
-[![blank](blank-t.png)](blank)
+[![growth](growth-t.png)](growth)
 
-[REFLECTIONS](reflections) | [BLANK](blank)
+[REFLECTIONS](reflections) | [GROWTH](growth)

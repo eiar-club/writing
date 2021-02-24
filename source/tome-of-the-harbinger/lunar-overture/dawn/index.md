@@ -7,10 +7,10 @@ tags:
 ---
 ## LUNAR OVERTURE
 
-[![blank](blank-t.png)](blank)
+[![weeds](weeds-t.png)](weeds)
 
-[TO WRITE OR NOT](to-write-or-not) | [BLANK](blank)
+[TO WRITE OR NOT](to-write-or-not) | [WEEDS](weeds)
 
-[![blank](blank-t.png)](blank)
+[![lantern-wick](lantern-wick-t.png)](lantern-wick)
 
-[WEST WEST](west-west) | [BLANK](blank)
+[WEST WEST](west-west) | [LANTERN WICK](lantern-wick)

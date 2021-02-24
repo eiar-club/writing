@@ -22,7 +22,7 @@ theme:
   logo: assets/thick.png
   favicon: assets/tiny.png
   features:
-    - navigation.instant
+#    - navigation.instant
     - navigation.expand
     - navigation.tabs
 #    - toc.integrate
@@ -99,9 +99,9 @@ nav:
     - 'tome-of-the-harbinger/star-herald/equatorial/littles.md'
     - 'tome-of-the-harbinger/star-herald/equatorial/un-viaje-con-los-duendes.md'
     - 'tome-of-the-harbinger/star-herald/celestial/index.md'
-    - 'BLANK' : 'tome-of-the-harbinger/star-herald/celestial/blank.md'
+    -  'tome-of-the-harbinger/star-herald/celestial/series.md'
     - 'tome-of-the-harbinger/star-herald/celestial/army-of-god.md'
-    - 'tome-of-the-harbinger/star-herald/celestial/blank.md'
+    - 'tome-of-the-harbinger/star-herald/celestial/growth.md'
     - 'tome-of-the-harbinger/star-herald/celestial/reflections.md'
     - 'tome-of-the-harbinger/lunar-overture/index.md'
     - 'tome-of-the-harbinger/lunar-overture/twilight/index.md'
@@ -110,14 +110,14 @@ nav:
     - 'tome-of-the-harbinger/lunar-overture/twilight/blank.md'
     - 'tome-of-the-harbinger/lunar-overture/twilight/y.md'
     - 'tome-of-the-harbinger/lunar-overture/dawn/index.md'
-    - 'BLANK' : 'tome-of-the-harbinger/lunar-overture/dawn/blank.md'
+    - 'tome-of-the-harbinger/lunar-overture/dawn/weeds.md'
     - 'tome-of-the-harbinger/lunar-overture/dawn/to-write-or-not.md'
-    - 'tome-of-the-harbinger/lunar-overture/dawn/blank.md'
+    - 'tome-of-the-harbinger/lunar-overture/dawn/lantern-wick.md'
     - 'tome-of-the-harbinger/lunar-overture/dawn/west-west.md'
     - 'tome-of-the-harbinger/lunar-overture/dusk/index.md'
-    - 'BLANK' : tome-of-the-harbinger/lunar-overture/dusk/blank.md'
+    - 'tome-of-the-harbinger/lunar-overture/dusk/countdown.md'
     - 'tome-of-the-harbinger/lunar-overture/dusk/cosmic-interpretation.md'
-    - 'tome-of-the-harbinger/lunar-overture/dusk/blank.md'
+    - 'tome-of-the-harbinger/lunar-overture/dusk/rogue.md'
     - 'tome-of-the-harbinger/lunar-overture/dusk/topi-tapa.md'
     - 'tome-of-the-harbinger/lunar-overture/night/index.md'
     - 'BLANK' : tome-of-the-harbinger/lunar-overture/night/blank.md'
