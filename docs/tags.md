@@ -250,6 +250,13 @@ title: Tags
  
 
 
+## <span class="tag">duenditos</span>
+
+  * [DUENDITOS](tome-of-the-harbinger/star-herald/equatorial/duenditos.md)
+
+ 
+
+
 ## <span class="tag">dusk</span>
 
   * [DUSK](tome-of-the-harbinger/lunar-overture/dusk/index.md)
@@ -307,7 +314,7 @@ title: Tags
 
   * [CHAIN](tome-of-the-harbinger/star-herald/equatorial/chain.md)
 
-  * [LITTLES](tome-of-the-harbinger/star-herald/equatorial/littles.md)
+  * [DUENDITOS](tome-of-the-harbinger/star-herald/equatorial/duenditos.md)
 
  
 
@@ -429,7 +436,7 @@ title: Tags
 
   * [CHAIN](tome-of-the-harbinger/star-herald/equatorial/chain.md)
 
-  * [LITTLES](tome-of-the-harbinger/star-herald/equatorial/littles.md)
+  * [DUENDITOS](tome-of-the-harbinger/star-herald/equatorial/duenditos.md)
 
   * [UN VIAJE CON LOS DUENDES](tome-of-the-harbinger/star-herald/equatorial/un-viaje-con-los-duendes.md)
 
@@ -485,13 +492,6 @@ title: Tags
 ## <span class="tag">left handed</span>
 
   * [LEFT HANDED](grimoire-zero/a-man-of-everything/water/left-handed.md)
-
- 
-
-
-## <span class="tag">littles</span>
-
-  * [LITTLES](tome-of-the-harbinger/star-herald/equatorial/littles.md)
 
  
 
@@ -691,7 +691,7 @@ title: Tags
 
   * [CHAIN](tome-of-the-harbinger/star-herald/equatorial/chain.md)
 
-  * [LITTLES](tome-of-the-harbinger/star-herald/equatorial/littles.md)
+  * [DUENDITOS](tome-of-the-harbinger/star-herald/equatorial/duenditos.md)
 
   * [UN VIAJE CON LOS DUENDES](tome-of-the-harbinger/star-herald/equatorial/un-viaje-con-los-duendes.md)
 

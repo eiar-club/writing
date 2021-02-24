@@ -1,9 +1,9 @@
 ---
-title: LITTLES
+title: DUENDITOS
 tags:
-  - littles
+  - duenditos
   - harbinger
   - star herald
   - equatorial
 ---
-![littles](littles.png)
+![duenditos](duenditos.png)
