@@ -1,5 +1,9 @@
 #bash
-
 mkdocs build
+
+mkdir docs/7cd2f203aaa15a4e35afbebdcf2ce2fda2855c75
+mv docs/* docs/7cd2f203aaa15a4e35afbebdcf2ce2fda2855c75
+cp index.html docs/index.html
+
 rm docs/CNAME
 printf "eiar.club" >> docs/CNAME
