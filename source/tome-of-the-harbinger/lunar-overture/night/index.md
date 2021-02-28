@@ -7,9 +7,9 @@ tags:
 ---
 ## LUNAR OVERTURE
 
-[![blank](blank-t.png)](blank)
+[![nfts](nfts-t.png)](nfts)
 
-[x](y) | [BLANK](blank)
+[x](y) | [NFTS](nfts)
 
 [![blank](blank-t.png)](blank)
 
